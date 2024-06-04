@@ -1,4 +1,4 @@
-## Winter 2022 Project 1
+# Winter 2022 Project 1
 
 A program to analyze the data from a study about how couples meet and stay together.
 
