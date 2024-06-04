@@ -1,4 +1,1 @@
-EECS 280 Project 1 Solution
-===========================
-Statistics
-By Sujoy Barua <sujoysb@umich.edu>
+- Read [Full Project Spec](https://eecs280staff.github.io/p1-stats/)
